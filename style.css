@@ -1,1 +1,33 @@
+.scroller, .btn-growth-md, .rbx-nav-sponsor img, .avatar-card-image {
+    border-radius: 10px !important;
+}
 
+.scroller {
+    margin: 5px;
+}
+
+.game-card {
+    background-color: #0F0F0F;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.game-card-container {
+    margin: 5%;
+}
+
+.cursor-pointer:hover {
+    background-color: #0F0F0F;
+}
+
+.games-list-container {
+    overflow: hidden;
+    background-color: #161616;
+    padding: 15px;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.message-banner, .icon-close {
+    border-radius: 5px;
+}
